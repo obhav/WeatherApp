@@ -9,10 +9,6 @@ A simple weather application that allows users to get the current weather detail
 - Updates the weather icon based on the current weather condition.
 - User-friendly interface with clear error messages for invalid city names.
 
-## Screenshots
-
-![Weather App Screenshot](path/to/your/screenshot.png)
-
 ## Technologies Used
 
 - HTML
